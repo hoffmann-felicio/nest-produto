@@ -1,0 +1,1 @@
+Para executar o backend é necessário instalar o nestjs e dependencias, depois executar npm run start
